@@ -1,6 +1,6 @@
 # **1. Importing Necessary Libraries** 📚
 
-from flask import app
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
